@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/APIDemo/obj/Debug
+/APITesting/.vs/APITesting/v16
+/APITesting/obj/Debug
+/APITesting/packages
